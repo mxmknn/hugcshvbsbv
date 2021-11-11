@@ -27,7 +27,7 @@
       </tr>     
       <tr>
          <td>irkutsk</td>
-         <td><600k/td>
+         <td>600k</td>
          <td>280 kvad. km</td>
          <td><img src="![image](https://user-images.githubusercontent.com/77286271/141251641-e503247e-ac4e-4d30-8fba-eaf71d6034d3.png)"></td>
       
