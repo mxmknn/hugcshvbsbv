@@ -32,13 +32,12 @@
          <td><img src="![image](https://user-images.githubusercontent.com/77286271/141251641-e503247e-ac4e-4d30-8fba-eaf71d6034d3.png)"></td>
       
       </tr>
-           <tr>
-             <td>london</td>
-             <td>9kk</td>
-             <td>1572 kvad. km</td>
-             <td><img src="![image](https://user-images.githubusercontent.com/77286271/141252307-5dee0144-5b81-4fd9-bafc-3c51c463a3ed.jpeg)"></td>
-             
-           </tr>
+      <tr>
+          <td>london</td>
+          <td>9kk</td>
+          <td>1572 kvad. km</td>
+          <td><img src="![image](https://user-images.githubusercontent.com/77286271/141252307-5dee0144-5b81-4fd9-bafc-3c51c463a3ed.jpeg)"></td>             
+       </tr>
     </table>
   </body> 
 </html>
